@@ -1,4 +1,5 @@
 x = 10
 y = 3
-result = x + y
+z = 15
+result = (x + y) * z
 print(f"Результат сложения: {result}")
